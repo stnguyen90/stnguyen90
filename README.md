@@ -7,6 +7,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Location-Based App with Appwrite](https://levelup.gitconnected.com/building-a-location-based-app-with-appwrite-48a2e2b6d4c2?source=rss-d3ef6779e88d------2)
+- [Appwrite Frequently Asked Questions](https://medium.com/geekculture/appwrite-frequently-asked-questions-374ce81513fe?source=rss-d3ef6779e88d------2)
+- [6 Things You’re Doing Wrong with Your REST API](https://levelup.gitconnected.com/6-things-youre-doing-wrong-with-your-rest-api-798724e5e15f?source=rss-d3ef6779e88d------2)
+- [Handling Null JSON Arrays in Go](https://medium.com/swlh/arrays-and-json-in-go-98540f2fa74e?source=rss-d3ef6779e88d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

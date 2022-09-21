@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
 <h3 align="center">Tech enthusiast and problem solver</h3>
 
+<p align="center">
+<a href="https://makers.appwrite.io/stnguyen90">
+    <img src="https://appwrite.io/cards/makers/stnguyen90" height="200px" alt="stnguyen90's Maker Card" />
+</a>
+</p>
+
 - 🔭 I’m currently working at [Appwrite](https://appwrite.io/)
 - 📝 I regularly write articles on [Medium](https://medium.com/@stnguyen90)
 

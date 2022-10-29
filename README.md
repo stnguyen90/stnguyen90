@@ -12,10 +12,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Connecting FlutterFlow to Appwrite](https://medium.com/@stnguyen90/connecting-flutterflow-to-appwrite-56abdbcbbd92?source=rss-d3ef6779e88d------2)
 - [How to Run Appwrite Behind Nginx](https://medium.com/@stnguyen90/how-to-run-appwrite-behind-nginx-19348ed34243?source=rss-d3ef6779e88d------2)
 - [Building a Location-Based App with Appwrite](https://levelup.gitconnected.com/building-a-location-based-app-with-appwrite-48a2e2b6d4c2?source=rss-d3ef6779e88d------2)
 - [Appwrite Frequently Asked Questions](https://medium.com/geekculture/appwrite-frequently-asked-questions-374ce81513fe?source=rss-d3ef6779e88d------2)
-- [6 Things You’re Doing Wrong with Your REST API](https://levelup.gitconnected.com/6-things-youre-doing-wrong-with-your-rest-api-798724e5e15f?source=rss-d3ef6779e88d------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me

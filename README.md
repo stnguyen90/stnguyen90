@@ -6,10 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [6 Steps to Build Your Next App](https://medium.com/@stnguyen90/6-steps-to-build-your-next-app-af43a6d0e5c3?source=rss-d3ef6779e88d------2)
 - [Connecting FlutterFlow to Appwrite](https://medium.com/@stnguyen90/connecting-flutterflow-to-appwrite-56abdbcbbd92?source=rss-d3ef6779e88d------2)
 - [How to Run Appwrite Behind Nginx](https://medium.com/@stnguyen90/how-to-run-appwrite-behind-nginx-19348ed34243?source=rss-d3ef6779e88d------2)
 - [Building a Location-Based App with Appwrite](https://levelup.gitconnected.com/building-a-location-based-app-with-appwrite-48a2e2b6d4c2?source=rss-d3ef6779e88d------2)
-- [Appwrite Frequently Asked Questions](https://medium.com/geekculture/appwrite-frequently-asked-questions-374ce81513fe?source=rss-d3ef6779e88d------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
